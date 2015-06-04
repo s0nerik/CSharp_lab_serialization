@@ -1,0 +1,9 @@
+C:\Users\sonerik\Documents\Projects\Uni\oop\Serialization\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\sonerik\Documents\Projects\Uni\oop\Serialization\Serialization\bin\Debug\Serialization.exe
+C:\Users\sonerik\Documents\Projects\Uni\oop\Serialization\Serialization\bin\Debug\Serialization.pdb
+C:\Users\sonerik\Documents\Projects\Uni\oop\Serialization\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+C:\Users\sonerik\Documents\Projects\Uni\oop\Serialization\Serialization\obj\Debug\Serialization.Form1.resources
+C:\Users\sonerik\Documents\Projects\Uni\oop\Serialization\Serialization\obj\Debug\Serialization.Properties.Resources.resources
+C:\Users\sonerik\Documents\Projects\Uni\oop\Serialization\Serialization\obj\Debug\Serialization.csproj.GenerateResource.Cache
+C:\Users\sonerik\Documents\Projects\Uni\oop\Serialization\Serialization\obj\Debug\Serialization.exe
+C:\Users\sonerik\Documents\Projects\Uni\oop\Serialization\Serialization\obj\Debug\Serialization.pdb
